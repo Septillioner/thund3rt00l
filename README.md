@@ -13,12 +13,12 @@ Network Analyze Tool
   <tr>
    <th>Service Query</th>
    <td>Whois Query</td>
-   <td>:x:</td>
+   <td>:construction:</td>
    </tr>
   <tr>
    <th>Scanner</th>
    <td>Admin Panel Scanner</td>
-   <td>:x:</td>
+   <td>:construction:</td>
    </tr>
   <tr>
    <th>Analyzer</th>
@@ -33,12 +33,7 @@ Network Analyze Tool
   <tr>
    <th>Scanner</th>
    <td>Dork Scanner</td>
-   <td>:x:</td>
-   </tr>
-  <tr>
-   <th>Scanner</th>
-   <td>Port Scanner</td>
-   <td>:x:</td>
+   <td>:construction:</td>
    </tr>
   <tr>
    <th>Scanner</th>
