@@ -83,7 +83,7 @@ class whois:
 
 def main():
 	whoisthis = whois(WSFName = "data_sources/wquery_servers.json")
-	result = whoisthis.Query('eokul.meb.gov.tr')
+	result = whoisthis.Query('example.com')
 	if(result["state"]):
 		print "Whois Result :"
 		print "%s"%(result["data"].replace("\n","\n\t"))
