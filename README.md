@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-# thund3rt00l
-Network Analyze Tool
-<h3>Tools intended to be added</h3>
-=======
 # thund3rt00l - Network Analyze Tool
-
->>>>>>> 0da64d073dd114f2557cc684a211c5c20e123201
 <table>
  <thead>
   <tr>
