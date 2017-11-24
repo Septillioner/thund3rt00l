@@ -2,3 +2,4 @@ LICENSE
 Thumbs.db
 *.out
 *~
+*.pyc
