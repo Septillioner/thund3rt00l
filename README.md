@@ -1,6 +1,6 @@
 # thund3rt00l
 Network Analyze Tool
-<h3>Tools intended to be added:</h3>
+<h3>Tools intended to be added</h3>
 <table>
  <thead>
   <tr>
