@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # thund3rt00l
 Network Analyze Tool
 <h3>Tools intended to be added</h3>
+=======
+# thund3rt00l - Network Analyze Tool
+
+>>>>>>> 0da64d073dd114f2557cc684a211c5c20e123201
 <table>
  <thead>
   <tr>
@@ -10,12 +15,11 @@ Network Analyze Tool
   </tr>
  </thead>
  <tbody>
- 	<tr>
-		<th>Tracker</th>
-		<td>Traceroute</td>
-		<td>:construction:</td>
-		
-	</tr>
+ <tr>
+  <th>Tracker</th>
+  <td>Traceroute</td>
+  <td>:construction:</td>
+ </tr>
   <tr>
    <th>Query</th>
    <td>Whois Query</td>
@@ -58,7 +62,6 @@ Network Analyze Tool
   </tr>
  </tbody>
  </table>
-and more..
 
 <b>and interface design is planned after the foundation is laid</b>
  
