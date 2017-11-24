@@ -10,10 +10,16 @@ Network Analyze Tool
   </tr>
  </thead>
  <tbody>
+ 	<tr>
+		<th>Tracker</th>
+		<td>Traceroute</td>
+		<td>:construction:</td>
+		
+	</tr>
   <tr>
-   <th>Service Query</th>
+   <th>Query</th>
    <td>Whois Query</td>
-   <td>:construction:</td>
+   <td>:check:</td>
    </tr>
   <tr>
    <th>Scanner</th>
