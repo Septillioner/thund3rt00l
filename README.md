@@ -19,7 +19,7 @@ Network Analyze Tool
   <tr>
    <th>Query</th>
    <td>Whois Query</td>
-   <td>:check:</td>
+   <td>:heavy_check_mark:</td>
    </tr>
   <tr>
    <th>Scanner</th>
